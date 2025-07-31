@@ -6,7 +6,7 @@
 /*   By: pboorana <pboorana@student.42bangkok.co    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/15 14:32:12 by pboorana          #+#    #+#             */
-/*   Updated: 2025/07/15 18:01:26 by pboorana         ###   ########.fr       */
+/*   Updated: 2025/07/27 17:09:31 by pboorana         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -52,10 +52,10 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 
 //int	main(void)
 //{
-//	char	dest[] = "Hello";
+//	char	dest[] = "s";
 //	char	*src;
 
-//	src = "12";
-//	printf("%d\n", ft_strlcat(dest, src, 10));
+//	src = "HHHHHHHHH";
+//	printf("%d\n", ft_strlcat(dest, src, 2));
 //	printf("%s\n", dest);
 //}
